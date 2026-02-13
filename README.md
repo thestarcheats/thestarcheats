@@ -17,7 +17,7 @@
 
 ---
 
-### 🔥 About Me / This Profile
+### About Me / This Profile
 
 Hey, I'm **THESTAR** (aka **thestarcheats**).  
 I create **custom cheats**, **trainers**, **DLLs**, **executables**, and supporting tools like **DLL injectors** for various games. Everything here is built from scratch with clean code, performance in mind, and (where possible) anti-detection considerations.
@@ -28,24 +28,9 @@ I create **custom cheats**, **trainers**, **DLLs**, **executables**, and support
 - Custom injectors (manual map, load library, etc.)
 - Game-specific trainers & mods
 
-**⚠️ Disclaimer**  
-These are for **educational purposes**, single-player/offline use, or private servers only. I do **not** support or encourage using cheats in online multiplayer games where it violates terms of service or anti-cheat policies. Use responsibly.
-
 ---
 
-### 📁 Featured Repositories
-
-<!-- You can update these links/manually list your top repos -->
-- **[GameName-Internal-DLL](https://github.com/thestarcheats/GameName-Internal-DLL)** — Advanced internal cheat base (hook, ESP, aimbot skeleton)
-- **[Universal-DLL-Injector](https://github.com/thestarcheats/Universal-DLL-Injector)** — Clean, reliable manual mapper + LoadLibrary injector
-- **[Trainer-Template-EXE](https://github.com/thestarcheats/Trainer-Template-EXE)** — Hotkey-based trainer framework (C++)
-- ...and more coming soon!
-
-Check out all my public repos → [github.com/thestarcheats](https://github.com/thestarcheats)
-
----
-
-### 🛠️ Tech Stack I Usually Use
+### Tech Stack I Usually Use
 
 - **Languages**: C / C++ (main), sometimes C#
 - **Tools**: Visual Studio, x64dbg, Cheat Engine, ReClass.NET, IDA Pro / Ghidra
@@ -54,11 +39,11 @@ Check out all my public repos → [github.com/thestarcheats](https://github.com/
 
 ---
 
-### 📬 Contact & Community
+### Contact & Community
 
 - **GitHub**: [@thestarcheats](https://github.com/thestarcheats)
-- **Discord**: (add your tag if you want to share)
-- **Other**: (Telegram / forums / etc. — add if public)
+- **Discord**: (thestarcheats)
+- **Other**: (r/thestarcheats)
 
 Feel free to ⭐ repositories if you find them useful, and open issues/discussions for questions or feature requests.
 
